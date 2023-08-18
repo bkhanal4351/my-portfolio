@@ -5,8 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+           Full Stack Software Developer with a passion to build cloud based applications.
           </p>
         </>
       ),
