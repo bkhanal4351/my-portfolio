@@ -16,24 +16,22 @@ const skills = {
       title: "JavaScript",
       level: 5,
     },
-    {
-      title: "TypeScript",
-      level: 4,
-    },
+ 
     {
       title: "Tailwind CSS",
-      level: 1,
-    },
-    {
-      title: "React JS",
       level: 3,
     },
     {
-      title: "Figma",
+      title: "React JS",
       level: 4,
     },
+  
   ],
   2: [
+       {
+      title: "Python",
+      level: 4,
+    },
     {
       title: "PostgreSQL",
       level: 5,
@@ -44,23 +42,27 @@ const skills = {
     },
     {
       title: "MongoDB",
-      level: 2,
-    },
-    {
-      title: "Git",
       level: 4,
     },
     {
-      title: "PHP",
-      level: 1,
+      title: "Git",
+      level: 6,
+    },
+    {
+      title: "Django",
+      level: 4,
     },
     {
       title: "SQL",
-      level: 3,
+      level: 4,
     },
     {
       title: "Express.js",
-      level: 3,
+      level: 4,
+    },
+      {
+      title: "API-Development",
+      level: 4,
     },
   ],
 };

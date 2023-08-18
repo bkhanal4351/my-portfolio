@@ -21,6 +21,7 @@
 .skill-title {
   font-size: 1rem;
   padding-right: 4.5rem;
+  
 }
 
 .skill-item.activeSkill .skill-title {
@@ -30,6 +31,7 @@
 .activeSkill {
   border-radius: var(--radius-left);
   cursor: default;
+  
 }
 
 .skill-item.activeSkill:nth-child(1) {
@@ -72,17 +74,18 @@
 
 .level-container {
   display: flex;
-  gap: 0.3rem;
+  gap: 0.2rem;
 }
 
 .level-point {
   width: 3rem;
   height: 2rem;
   border-radius: 0.2rem;
+  
 }
 
 .filled {
-  background: linear-gradient(180deg, #236473, #25afce, #7ce7ff);
+  background: linear-gradient(180deg, #3f2373, #25afce, #7ce7ff);
 }
 .unfilled {
   background: linear-gradient(180deg, #1c8298, #074654, #074654);
@@ -109,6 +112,7 @@
   }
   .level-container {
     gap: 0.15rem;
+    
   }
   .skill-sub-container-1,
   .skill-sub-container-2 {

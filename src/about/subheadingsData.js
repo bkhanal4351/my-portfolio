@@ -5,7 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-           Full Stack Software Developer with a passion to build cloud based applications.
+           Full-Stack Software Developer with a passion to build cloud based applications.
           </p>
         </>
       ),
@@ -13,23 +13,21 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "Coding Bootcamp: 2022",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+           Full-Stack Software Development
           </p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "Bachelors Degree: 2015",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+           Bachelors in Electrical Engineering.
           </p>
         </>
       ),
@@ -37,7 +35,7 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2019 Application Support",
       content: (
         <>
           <p>
@@ -48,7 +46,7 @@ const subheadingsData = {
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2015 US Army",
       content: (
         <>
           <p>
@@ -59,7 +57,7 @@ const subheadingsData = {
       ),
     },
     {
-      title: "2017 IT Consultant",
+      title: "2018 Microsoft Participant",
       content: (
         <>
           <p>
